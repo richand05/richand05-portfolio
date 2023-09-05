@@ -1,0 +1,61 @@
+.contact-container{
+    padding: 2rem 2rem;
+}
+
+.contact-container h2{
+    background-color: #FF0000;
+    width: 15rem;
+}
+
+.contact-container h2{
+    color: #fff;
+    background-color: red;
+}
+
+form label{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-form{
+    padding: 0.4rem 5px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    cursor: pointer;
+    border: 2px solid #FF0000;
+    border-radius: 5px;
+}
+
+.btn-bg{
+    background-color: #FF0000;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.btn-form:hover{
+    background-color: transparent;
+    color: #fff;
+}
+
+input,
+textarea{
+    border: none;
+    margin: 10px auto;
+    width: 100%;
+    font-size: 1rem;
+    resize: none;
+}
+
+form{
+    background-color: #22213D;
+    padding: 1rem;
+}
+
+
